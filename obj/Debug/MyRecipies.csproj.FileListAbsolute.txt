@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\MyRecipies.dll.config
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\MyRecipies.dll
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\MyRecipies.pdb
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\obj\Debug\MyRecipies.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\obj\Debug\MyRecipies.dll
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\obj\Debug\MyRecipies.pdb
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\obj\Debug\MyRecipies.Migrations.First.resources
+C:\Users\User\Desktop\compusight\vjezba\MyRecipies\MyRecipies\obj\Debug\MyRecipies.csproj.GenerateResource.Cache
